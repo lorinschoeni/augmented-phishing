@@ -1,0 +1,36 @@
+{
+    "annotations": [
+        {
+            "id": "8b278c49-d606-42c0-853b-113078fd1ce4",
+            "label": "Annotation number one",
+            "offset": [
+                "13.91",
+                "29.85"
+            ],
+            "dimensions": [
+                "76.16",
+                "16.03"
+            ],
+            "borderColor": "#ff0000",
+            "textColor": "#000000",
+            "textSize": 2,
+            "icon": null
+        },
+        {
+            "id": "ac86edfd-6339-4ab6-813b-b02df7a27aff",
+            "label": "Druga anotacija",
+            "offset": [
+                "37.56",
+                "16.96"
+            ],
+            "dimensions": [
+                "24.62",
+                "8.48"
+            ],
+            "borderColor": "#ff0000",
+            "textColor": "#000000",
+            "textSize": 1,
+            "icon": null
+        }
+    ]
+}

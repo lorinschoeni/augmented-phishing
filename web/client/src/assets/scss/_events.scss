@@ -1,0 +1,36 @@
+
+.event {
+
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+
+	border: 1px solid #E5E5E5;
+	border-radius: 5px;
+	padding: 5px;
+	margin-bottom: 10px;
+
+	&__bind {
+		flex: 2;
+		margin-left: 5px;
+	}
+
+	&__action {
+		flex: 1;
+	}
+
+	&__control {
+		flex-shrink: 1;
+		margin-left: 10px;
+		align-self: flex-end;
+
+		span, a {
+			font-size: 1.2rem;
+			line-height: 0;
+			cursor: pointer;
+			text-decoration: none;
+			color: #000000;
+		}
+	}
+
+}

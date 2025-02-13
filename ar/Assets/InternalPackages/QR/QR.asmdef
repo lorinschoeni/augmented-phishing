@@ -1,0 +1,23 @@
+{
+    "name": "QR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb736f61fddac6a45b66373fb04b931d",
+        "GUID:bd14ed1e91c29334da142b647eb82f42",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:3b76ab8242cc35d479edf0a949d56d59",
+        "GUID:a6462cc487b34c15be5e40757b5c848c",
+        "GUID:a7a4c34601384f9389d5c4207f3c6331",
+        "GUID:8b7cc3e86d77403b8b984c08cbaeaf8f",
+        "GUID:584b16fd20064a269d31514d588aa585"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

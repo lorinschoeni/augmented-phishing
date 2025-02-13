@@ -1,0 +1,16 @@
+{
+  "name": "eth-server",
+  "author": "PhishAR",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "app": "node ./app.js"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "0.0.1-security"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Web",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cb736f61fddac6a45b66373fb04b931d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

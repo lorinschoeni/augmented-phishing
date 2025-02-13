@@ -1,0 +1,13 @@
+
+.browser__body {
+	position: relative;
+}
+
+.element {
+	position: absolute;
+  z-index: 20;
+	
+	&__zone {
+		border-width: 3px;
+	}
+}

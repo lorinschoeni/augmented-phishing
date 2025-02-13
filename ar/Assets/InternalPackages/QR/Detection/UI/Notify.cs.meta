@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scripts/Visualization/Helpers/Notify.cs.meta
+guid: 8e83fcf3d7f3db74eb49acbcbbf1c3ed
+========
+guid: d6865ca9266e459478d4bd2f3ca48d66
+>>>>>>>> e7e1e40 ([MEW-77] 2-way sync Chart3D):Assets/Scripts/Visualization/Charts3D/ChartData.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
